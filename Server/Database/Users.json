@@ -1,0 +1,202 @@
+{
+  "users": [
+    {
+      "username": "john",
+      "password": "potato",
+      "country": "united states",
+      "type": "admin",
+      "movies": [
+        {
+          "id": "4",
+          "name": "Justice League"
+        }
+      ],
+      "balance": "191"
+    },
+    {
+      "username": "lisa",
+      "password": "chips123",
+      "country": "spain",
+      "type": "normal",
+      "movies": [
+        {
+          "id": "2",
+          "name": "The Pursuit Of Happyness"
+        },
+        {
+          "id": "3",
+          "name": "The Notebook"
+        }
+      ],
+      "balance": "37"
+    },
+    {
+      "username": "shlomi",
+      "password": "cocacola",
+      "country": "israel",
+      "type": "normal",
+      "movies": [
+        {
+          "id": "1",
+          "name": "The Godfather"
+        },
+        {
+          "id": "2",
+          "name": "The Pursuit Of Happyness"
+        }
+      ],
+      "balance": "112"
+    },
+    {
+      "username": "client3",
+      "password": "client3",
+      "country": "israel",
+      "type": "normal",
+      "movies": [],
+      "balance": "1000"
+    },
+    {
+      "username": "client2",
+      "password": "client2",
+      "country": "israel",
+      "type": "normal",
+      "movies": [],
+      "balance": "1000"
+    },
+    {
+      "username": "Client0",
+      "password": "tryingagain",
+      "country": "Russia",
+      "type": "normal",
+      "movies": [],
+      "balance": "290"
+    },
+    {
+      "username": "Client7",
+      "password": "tryingagain",
+      "country": "Russia",
+      "type": "normal",
+      "movies": [],
+      "balance": "890"
+    },
+    {
+      "username": "Client13",
+      "password": "tryingagain",
+      "country": "Russia",
+      "type": "normal",
+      "movies": [],
+      "balance": "940"
+    },
+    {
+      "username": "Client12",
+      "password": "tryingagain",
+      "country": "Russia",
+      "type": "normal",
+      "movies": [],
+      "balance": "990"
+    },
+    {
+      "username": "Client9",
+      "password": "tryingagain",
+      "country": "Russia",
+      "type": "normal",
+      "movies": [],
+      "balance": "840"
+    },
+    {
+      "username": "Client8",
+      "password": "tryingagain",
+      "country": "Russia",
+      "type": "normal",
+      "movies": [],
+      "balance": "940"
+    },
+    {
+      "username": "Client17",
+      "password": "tryingagain",
+      "country": "Russia",
+      "type": "normal",
+      "movies": [],
+      "balance": "940"
+    },
+    {
+      "username": "Client11",
+      "password": "tryingagain",
+      "country": "Russia",
+      "type": "normal",
+      "movies": [],
+      "balance": "840"
+    },
+    {
+      "username": "Client5",
+      "password": "tryingagain",
+      "country": "Russia",
+      "type": "normal",
+      "movies": [],
+      "balance": "840"
+    },
+    {
+      "username": "Client15",
+      "password": "tryingagain",
+      "country": "Russia",
+      "type": "normal",
+      "movies": [],
+      "balance": "890"
+    },
+    {
+      "username": "Client14",
+      "password": "tryingagain",
+      "country": "Russia",
+      "type": "normal",
+      "movies": [],
+      "balance": "990"
+    },
+    {
+      "username": "Client1",
+      "password": "tryingagain",
+      "country": "Russia",
+      "type": "normal",
+      "movies": [],
+      "balance": "240"
+    },
+    {
+      "username": "Client6",
+      "password": "tryingagain",
+      "country": "Russia",
+      "type": "normal",
+      "movies": [],
+      "balance": "790"
+    },
+    {
+      "username": "Client4",
+      "password": "tryingagain",
+      "country": "Russia",
+      "type": "normal",
+      "movies": [],
+      "balance": "640"
+    },
+    {
+      "username": "Client10",
+      "password": "tryingagain",
+      "country": "Russia",
+      "type": "normal",
+      "movies": [],
+      "balance": "990"
+    },
+    {
+      "username": "Client16",
+      "password": "tryingagain",
+      "country": "Russia",
+      "type": "normal",
+      "movies": [],
+      "balance": "790"
+    },
+    {
+      "username": "or",
+      "password": "1234",
+      "type": "normal",
+      "movies": [],
+      "balance": "100"
+    }
+  ]
+}
